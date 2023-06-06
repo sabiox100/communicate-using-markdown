@@ -9,3 +9,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] All dogs are amazing
+- [x] Doves are holy
+- [ ] Chameleons are slow
